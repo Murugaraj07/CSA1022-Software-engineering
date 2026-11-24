@@ -1,0 +1,6 @@
+*   3d34356 P MURUGARAAJU Merge pull request #1 from P-MURUGARAAJU/feature/power-function
+|\  
+| * 2dbb365 P MURUGARAAJU Address review: add docstring and document power()
+| * 04a617a P MURUGARAAJU Add power function with unit test
+|/  
+* 71d8236 Priya Teammate Initial commit: basic calculator
